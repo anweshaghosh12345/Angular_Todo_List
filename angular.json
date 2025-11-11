@@ -27,16 +27,7 @@
               }
             ],
             "styles": [
-<<<<<<< HEAD
-              "src/styles.scss",
-              "./node_modules/bootstrap/dist/css/bootstrap.min.css"
-            ],
-            "scripts": [
-              "./node_modules/bootstrap/dist/js/bootstrap.js",
-              "./node_modules/jquery/dist/jquery.min.js"
-=======
               "src/styles.scss"
->>>>>>> 06310ba (initial commit)
             ],
             "server": "src/main.server.ts",
             "outputMode": "server",
@@ -101,11 +92,5 @@
         }
       }
     }
-<<<<<<< HEAD
-  },
-  "cli": {
-    "analytics": "b53cb273-4d4f-42cd-a7b1-1cfd511df914"
-=======
->>>>>>> 06310ba (initial commit)
   }
 }
